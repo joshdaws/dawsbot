@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n dawsbot
+web: bin/hubot -a groupme -n dawsbot
